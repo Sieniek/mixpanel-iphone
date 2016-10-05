@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = 'Mixpanel'
+  s.name         = 'MixpanelOrigins'
   s.version      = '3.0.4'
   s.summary      = 'iPhone tracking library for Mixpanel Analytics'
   s.homepage     = 'https://mixpanel.com'
